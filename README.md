@@ -34,7 +34,8 @@ The DLC is required for this mod to funciton. This mod is not recommended for a 
 ### Bergen Trail
 ![image](https://github.com/user-attachments/assets/dc4cc40f-737e-4048-831e-3f64443a38b3)
 
-### Maroon Valley
+### Maroon Valley (+Rookie Harbor)
+![image](https://github.com/user-attachments/assets/e9d8c8e8-341b-45fe-b27d-3065f31799b5)
 ![image](https://github.com/user-attachments/assets/2994bd67-26db-4c4b-a758-3b8c56ab06b7)
 
 ### Gaia's Garden
